@@ -1,0 +1,3 @@
+{
+  "rewrites": [{ "source": "/", "destination": "/random-number.html" }]
+}
